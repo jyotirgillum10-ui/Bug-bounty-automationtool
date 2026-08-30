@@ -9,7 +9,7 @@ Make sure you have Python installed on your system.
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/jyotirgillum10-ui/Bug-bounty-automationtool.git](https://github.com/jyotirgillum10-ui/Bug-bounty-automationtool.git)
+git clone https://github.com/jyotirgillum10-ui/Bug-bounty-automationtool.git
 cd Bug-bounty-automationtool
 ```
 
