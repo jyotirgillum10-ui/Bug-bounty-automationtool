@@ -22,5 +22,5 @@ pip install -r requirements.txt
 
 Run the tool using:
 ```bash
-python3 app.py
+streamlit run bounty_final_exact_target_fixed.py
 ```
